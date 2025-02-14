@@ -2,7 +2,7 @@
 
 A static website built with Semantic HTML5, utilizing Flexbox and Positioning for layout structure. It features vertical stacking with z-index to manage element layering effectively.
 
-![Triple Peaks Library Screenshot](https://example.com/screenshot.png)
+![Triple Peaks Library Screenshot](./images/screenshot_library.png)
 
 ## Description
 
@@ -23,7 +23,7 @@ Experience the live version of the project here: [Triple Peaks Library Live Demo
 
 For a comprehensive walkthrough of the website's features, watch the demo video:
 
-[![Triple Peaks Library Demo Video](https://example.com/demo-thumbnail.png)](https://example.com/demo-video.mp4)
+[![Triple Peaks Library Demo Video](https://demirsondaj.com.tr/wp-content/uploads/demo/placeholder.svg)](https://example.com/demo-video.mp4)
 
 ## Deployment and System Requirements
 
@@ -37,8 +37,8 @@ As this is a static website, you can run it locally or deploy it to any web serv
    git clone https://github.com/SawSimonLinn/se_project_library.git
    cd se_project_library
 
+   ```
+
 2. **Open the website:**
 
 Simply open the `index.html` file in your preferred web browser.
-
-
